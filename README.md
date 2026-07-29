@@ -1,5 +1,16 @@
 # API - Exercita365
 
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=FFFFFF">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000">
+</p>
+
+> Projeto colaborativo desenvolvido em equipe. Este repositório é um [fork do projeto original](https://github.com/gbetsa/Exercita365) e preserva seu histórico de commits e autoria.
+
 ## Descrição
 O Exercita365 é uma plataforma que facilita o gerenciamento de exercícios e locais para atividades físicas serem praticadas. Os usuários podem cadastrar novos locais de exercícios, encontrar pontos próximos, visualizar informações sobre os exercícios em cada ponto e registrar suas próprias contribuições para o sistema.
 
@@ -13,8 +24,8 @@ O Exercita365 é uma plataforma que facilita o gerenciamento de exercícios e lo
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/yBtyZa/Exercita365.git
-  cd exercita365
+  git clone https://github.com/Luizhprovin/Exercita365.git
+  cd Exercita365
   ```
 2. Instale as dependências:
   ```bash
@@ -257,25 +268,13 @@ O banco de dados utiliza os seguintes relacionamentos:
 
 ## Tecnologias
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-</div>
+- JavaScript e Node.js
+- Express
+- PostgreSQL
+- Sequelize e Sequelize CLI
+- JSON Web Token
+- Swagger
 
-###
+## Autoria e colaboração
 
-## Redes Sociais
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gbetsa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_gbetsa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-###
+Desenvolvido de forma colaborativa. Consulte o [repositório de origem](https://github.com/gbetsa/Exercita365) para conhecer o projeto e seu histórico completo. Este fork integra o portfólio de [Luiz Henrique Provin](https://github.com/Luizhprovin) sem remover os créditos dos demais participantes.
